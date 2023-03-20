@@ -1,0 +1,24 @@
+git version
+git config --global user.name "Neha2724"
+git config --global user.email "neha.pat2724@gmail.com"
+git config --global --list
+git clone github-https-url # paste in your GitHub HTTPS clone URL
+ls
+cd github-demo
+ls
+git status
+echo "Test Git Quick Start demo" >> start.txt
+ls
+cat start.txt
+git status
+git add start.txt
+git status
+git commit -m "Adding start text file"
+git status
+git push origin mmaingit push origin main 
+it will ask for username >> Neha2724
+Password >> here password will not work so need to paste tokenID
+After thet code will be available into git repo
+github token - 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
+
+
